@@ -134,6 +134,8 @@ E COM/
 <img width="356" height="473" alt="Screenshot 2025-11-07 234843" src="https://github.com/user-attachments/assets/d0f56839-8348-4a97-9479-b07ca8938829" />
 
 
+### demo video
+https://www.loom.com/share/5178e82252ba4525a75b8c3d16fed0c8
 
 
 
